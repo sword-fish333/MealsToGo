@@ -1,0 +1,12 @@
+{
+  "name": "play-native-app",
+  "displayName": "play-native-app",
+  "expo": {
+    "name": "play-native-app",
+    "slug": "play-native-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
